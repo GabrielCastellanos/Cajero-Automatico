@@ -1,4 +1,4 @@
-# Simulación de un cajero automático básico
+# Simulación de un cajero automático 
 # Variables iniciales de billetes en el inventario del cajero.
 # Se utiliza un diccionario para facilitar la gestión del inventario.
 inventario = {
@@ -12,7 +12,7 @@ inventario = {
 # Se inicia el cajero automático
 print("\n--- Cajero Automático ---")
 print("Inventario inicial de billetes:")
-for denominacion, cantidad in inventario.items():
+for denominacion, cantidad in inventario.items(): # Muestra el inventario inicial
     print(f"  - ${denominacion}: {cantidad} billetes")
 
 # El bucle principal del programa
