@@ -8,9 +8,9 @@ La tarea es desarrollar un algoritmo que simule el funcionamiento de un cajero a
 * Siempre que inicie el algoritmo, deberá haber en inventario 10 billetes de cada denominación.
 
 Posteriormente la tarea 2 consiste en realizar un algoritmo que simule un inicio de sesion con las siguientes condiciones:
-• Se permite un máximo de 3 intentos.
-• Mostrar un error al usuario cuando no exista uno de los datos
+* Se permite un máximo de 3 intentos.
+* Mostrar un error al usuario cuando no exista uno de los datos
 (usuario y contraseña).
-• Si uno de los campos (usuario y contraseña) está vacío deberá
+* Si uno de los campos (usuario y contraseña) está vacío deberá
 mostrar un error de autentificación.
-• Únicamente usar estructuras de control.
+* Únicamente usar estructuras de control.
